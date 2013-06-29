@@ -15,24 +15,18 @@ body {
 .container {
   margin-left: auto;
   margin-right: auto;
-  padding: 30px 30px 0px 30px;
+  padding-top: 30px;
   width: 500px;
 }
 
 .content {
   clear: both;
   margin: 20px auto 20px 0;
-}
-
-.content h2 {
-  color: gray;
-  padding-bottom: 5px;
-  padding-top: 20px;
+  padding-left: 5px;
+  padding-right: 5px;
 }
 
 .content p {
-  padding-left: 20px;
-  padding-right: 20px;
   text-align: justify;
 }
 
