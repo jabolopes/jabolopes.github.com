@@ -32,6 +32,7 @@ body {
 
 .floatleft {
   float: left;
+  width: 200px;
 }
 
 .info {
@@ -44,6 +45,7 @@ body {
   color: gray;
   font-size: 200%;
   font-variant: small-caps;
+  margin: 0px auto 0.3em auto;
 }
 
 .info a {
